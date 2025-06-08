@@ -1,10 +1,12 @@
 👋 Hi, I’m Ahmed Nasr Eldeen
 
-AI Transformation Consultant at Tata iQ | Specializing in Data-Driven Decision-Making for Financial Services
+AI Transformation Consultant | Specialist in Data Analytics, Business Analytics & Machine Learning
 
 🚀 About Me
 
-I’m a data analytics and business analytics professional with a strong foundation in machine learning. My expertise lies in transforming raw data into valuable insights that inform business strategy and operational improvements. With a proven track record of delivering end-to-end solutions—from data wrangling and exploratory analysis to predictive modeling and actionable reporting—I thrive in environments where data drives growth. I’m passionate about turning business questions into data problems and leveraging ML techniques to unlock strategic value.
+I’m a seasoned data and business analytics professional with extensive hands-on experience in machine learning. I specialize in transforming raw data into strategic insights, building predictive models that drive decision-making, and enabling innovation through data. With a strong foundation in statistics, finance, and advanced analytics, I deliver scalable solutions that create real business impact.
+
+
 
 🏆 Certifications
 
