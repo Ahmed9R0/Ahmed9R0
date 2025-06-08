@@ -4,71 +4,71 @@ AI Transformation Consultant at Tata iQ | Specializing in Data-Driven Decision-M
 
 🚀 About Me
 
-I’m a seasoned data analytics and business analytics professional with extensive hands-on experience in machine learning. I excel at transforming complex datasets into actionable insights, building predictive models that drive strategic decisions, and optimizing processes through advanced analytics. I thrive on solving challenging problems and delivering measurable business value through data-driven innovation.
+I’m a data analytics and business analytics professional with a strong foundation in machine learning. My expertise lies in transforming raw data into valuable insights that inform business strategy and operational improvements. With a proven track record of delivering end-to-end solutions—from data wrangling and exploratory analysis to predictive modeling and actionable reporting—I thrive in environments where data drives growth. I’m passionate about turning business questions into data problems and leveraging ML techniques to unlock strategic value.
 
 🏆 Certifications
 
-Business Analytics for Decision Making (May 2025) – University of Colorado Boulder
+Business Analytics for Decision Making – University of Colorado Boulder
 
-Predictive Modeling and Analytics (May 2025) – University of Colorado Boulder
+Predictive Modeling and Analytics – University of Colorado Boulder
 
-Introduction to Data Analytics for Business (Apr 2025) – University of Colorado Boulder
+Introduction to Data Analytics for Business – University of Colorado Boulder
 
-Supervised Machine Learning: Regression and Classification (May 2025) – Stanford University
+Supervised Machine Learning: Regression and Classification – Stanford University
 
-Delivering Quality Work with Agility (Apr 2025) – IBM
+Delivering Quality Work with Agility – IBM
 
-Excel for Accounting (Apr 2025) – EYouth
+Excel for Accounting – EYouth
 
-Data Science: Linear Regression (Apr 2025) – Harvard University (edX)
+Data Science: Linear Regression – Harvard University (edX)
 
-Deploying TinyML (Apr 2025) – Harvard University (edX)
+Deploying TinyML – Harvard University (edX)
 
-Applications of TinyML (Mar 2025) – Harvard University (edX)
+Applications of TinyML – Harvard University (edX)
 
-Fundamentals of TinyML (Feb 2025) – Harvard University (edX)
+Fundamentals of TinyML – Harvard University (edX)
 
-Calculus I: From Functions to Differential Equations (Apr 2025) – Delft University of Technology (edX)
+Calculus I: From Functions to Differential Equations – Delft University of Technology (edX)
 
-Linear Algebra I & II (Apr 2025) – Delft University of Technology (edX)
+Linear Algebra I & II – Delft University of Technology (edX)
 
-Statistics (Apr 2025) – Delft University of Technology (edX)
+Statistics – Delft University of Technology (edX)
 
-Probability Theory (Mar 2025) – Delft University of Technology (edX)
+Probability Theory – Delft University of Technology (edX)
 
-Business Analytics & Digital Freelancing Nanodegree (Mar 2025) – Udacity
+Business Analytics & Digital Freelancing Nanodegree – Udacity
 
-Foundation of Ethical Hacking (Jan 2025) – Udacity
+Foundation of Ethical Hacking – Udacity
 
-Intro to AI with Python (Mar 2025) – CS50
+Intro to AI with Python – CS50
 
-Intro to Programming with Python (Mar 2025) – CS50
+Intro to Programming with Python – CS50
 
-MySQL Data Analysis (Mar 2025) – Maven Analytics
+MySQL Data Analysis – Maven Analytics
 
-Financial Analysis for Decision Making (Feb 2025) – Babson College (edX)
+Financial Analysis for Decision Making – Babson College (edX)
 
-Analytics for Decision Making (Jan 2025) – Babson College (edX)
+Analytics for Decision Making – Babson College (edX)
 
-Finance for Non-Financials (Dec 2024) – EYouth
+Finance for Non-Financials – EYouth
 
-Financial Analysis (Dec 2024) – EYouth
+Financial Analysis – EYouth
 
-Reporting Firm Resources & Performance (Dec 2024) – New York Institute of Finance (edX)
+Reporting Firm Resources & Performance – New York Institute of Finance (edX)
 
-Reporting Investments, Pensions & Financial Statement Analysis (Dec 2024) – New York Institute of Finance (edX)
+Reporting Investments, Pensions & Financial Statement Analysis – New York Institute of Finance (edX)
 
-Reporting Liabilities & Cash Flow (Dec 2024) – New York Institute of Finance (edX)
+Reporting Liabilities & Cash Flow – New York Institute of Finance (edX)
 
-Use of Firm Resources & Taxation (Dec 2024) – New York Institute of Finance (edX)
+Use of Firm Resources & Taxation – New York Institute of Finance (edX)
 
-Free Cash Flow Analysis (Dec 2024) – Columbia University (edX)
+Free Cash Flow Analysis – Columbia University (edX)
 
-Intro to Corporate Finance (Dec 2024) – Columbia University (edX)
+Intro to Corporate Finance – Columbia University (edX)
 
-Risk & Return (Dec 2024) – Columbia University (edX)
+Risk & Return – Columbia University (edX)
 
-Data Analysis with Python (Feb 2025) – freeCodeCamp
+Data Analysis with Python – freeCodeCamp
 
 🧰 Skills
 
